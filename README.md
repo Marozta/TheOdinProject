@@ -1,2 +1,2 @@
 # TheOdinProject
-Repository for projects of The Odin project
+Repository for assignments and projects of The Odin project
